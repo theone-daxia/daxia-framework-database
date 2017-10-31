@@ -1,0 +1,16 @@
+{
+    "name": "theone-daxia/daxia-framework-database",
+    "description": "daxia框架的db部分",
+    "type": "library",
+    "authors": [
+        {
+            "name": "xiaoyu",
+            "email": "xiaoyu.han@mfashion.com.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": { "Daxia\\": "src/" }
+    }
+}
