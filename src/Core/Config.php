@@ -1,6 +1,6 @@
 <?php
 
-namespace Daxia\Core;
+namespace Daxia\Database\Core;
 
 class Config
 {

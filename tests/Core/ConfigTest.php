@@ -1,6 +1,6 @@
 <?php
 
-use Daxia\Core\Config;
+use Daxia\Database\Core\Config;
 
 class ConfigTest extends PHPUnit_Framework_TestCase
 {

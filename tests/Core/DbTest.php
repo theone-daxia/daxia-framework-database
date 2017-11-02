@@ -1,7 +1,7 @@
 <?php
 
-use Daxia\Core\DB;
-use Daxia\Core\Config;
+use Daxia\Database\Core\DB;
+use Daxia\Database\Core\Config;
 
 class DBTest extends PHPUnit_Framework_TestCase
 {
